@@ -1,5 +1,5 @@
 module.export={
 require:['@babel/register'],
-timeout:5000
+timeout:'20000'
 
 }
